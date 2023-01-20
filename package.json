@@ -1,16 +1,26 @@
 {
   "name": "react-native-ludo",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "A react native package that lets you add ludo board game in your application",
+  "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "game",
+    "board game",
+    "ludo"
+  ],
+  "peerDependencies": {
+    "react": "^16.0.0-beta.5",
+    "react-native": "^0.49.1"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ashokdevatwal/react-native-ludo.git"
   },
-  "author": "Er. Ashok Devatwal",
+  "author": "Er. Ashok Devatwal <ashokdev78@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/ashokdevatwal/react-native-ludo/issues"
